@@ -1,0 +1,861 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.develogo.apps.superadesivos",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Meme Pack 1",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Meme Pack 2",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Meme Pack 3",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Meme Pack 4",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Rage Pack 1",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Rage Pack 2",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Extraterracos Pack 1",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Rage Sasuke",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Dont be Dogs Pack 1",
+      "publisher": "Develogo",
+      "tray_image_file": "00.png",
+      "publisher_email":"felipe@develogo.com",
+      "publisher_website": "https://www.facebook.com/lippeandrade",
+      "privacy_policy_website": "http://www.develogo.com",
+      "license_agreement_website": "http://www.develogo.com",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    }
+  ]
+}
